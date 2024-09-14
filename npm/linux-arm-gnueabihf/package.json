@@ -1,0 +1,20 @@
+{
+  "name": "@stevefan1999/ammonia-rs-linux-arm-gnueabihf",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "ammonia-rs.linux-arm-gnueabihf.node",
+  "files": [
+    "ammonia-rs.linux-arm-gnueabihf.node"
+  ],
+  "description": "napi-rs bindings for ammonia in Rust",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/stevefan1999-personal/ammonia-rs"
+}
